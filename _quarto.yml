@@ -27,4 +27,7 @@ format:
 editor:
   render-on-save: true
 
+website:
+  darkmode: true
+
     
