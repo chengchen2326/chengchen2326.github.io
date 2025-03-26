@@ -1,7 +1,7 @@
 ---
 title: "Extending Contamination Bias Analysis to Minimum Wage Studies"
 author: Chen Cheng
-date: "2025-03"
+date: "2025-03" 
 ---
 
 
