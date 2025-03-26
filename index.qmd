@@ -17,3 +17,5 @@ I am a Ph.D. student in Economics at Brown University.
 I am interetsed in econometrics and applied econometrics.
 
 Please feel free to get in touch!  
+
+Last updated: `r Sys.Date()`
